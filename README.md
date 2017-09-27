@@ -1,4 +1,3 @@
 # mirrortest
 Test mirroring a githubrepo to a private gitlab-ce instance
-
-nla
+A new text
